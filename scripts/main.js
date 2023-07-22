@@ -2,11 +2,12 @@
 new fullpage('#fullpage', {
   licenseKey: 'OPEN-SOURCE-GPLV3-LICENSE',
   anchors: ['charts'],
-  sectionsColor: ['#f7f3de'],
+  sectionsColor: ['#d9bdbd'],
   autoScrolling: true,
   fitToSection: true,
   slidesNavigation: true,
   slidesNavPosition: 'top',
+
 
   scrollOverflow: true,
 
